@@ -2,7 +2,7 @@
 
 ## About
 
-Software experiments to help other system and application software developers.
+Experimental software to help other software developers, both systems and applications, by developing libraries, utilities and more.
 
 ## Links
 
