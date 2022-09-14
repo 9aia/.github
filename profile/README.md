@@ -6,10 +6,10 @@ Experimental software to help other software developers, both systems and applic
 
 ## Donate
 
-- XNO: nano_38wfxr7y8efsu3jdjndwr6miw5eptjo1h8bk33hhu3no6uoum4qkwshcquxs
-- XMR: 47C99dpD452Si7aZvSaQnS5Dv1X33fqZEjBxdhN26msA8oky8sidQN4hgPLToBqXYVYdj3x6KhYPJfNgBxcZVvYVBE1dSp4
-- BTC: 183jATWbJxmeXVxA8Zj1XpTK6YtYcpL2Gr
-- ETH: 0xb1df318d7C9794536EF626e9f2108bA5aC8dC8e9
+- XNO: `nano_38wfxr7y8efsu3jdjndwr6miw5eptjo1h8bk33hhu3no6uoum4qkwshcquxs`
+- XMR: `47C99dpD452Si7aZvSaQnS5Dv1X33fqZEjBxdhN26msA8oky8sidQN4hgPLToBqXYVYdj3x6KhYPJfNgBxcZVvYVBE1dSp4`
+- BTC: `183jATWbJxmeXVxA8Zj1XpTK6YtYcpL2Gr`
+- ETH: `0xb1df318d7C9794536EF626e9f2108bA5aC8dC8e9`
 
 ## Links
 
