@@ -4,6 +4,8 @@
 
 Experimental software to help other software developers, both systems and applications, by developing libraries, utilities and more.
 
+Feel free to contact us!
+
 ## Donate
 
 - XNO: `nano_38wfxr7y8efsu3jdjndwr6miw5eptjo1h8bk33hhu3no6uoum4qkwshcquxs`
