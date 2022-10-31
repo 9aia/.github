@@ -4,7 +4,7 @@
 
 Experimental software to help other software developers, both systems and applications, by developing libraries, utilities and more.
 
-Feel free to contact us!
+You can reach us at [contact@inforg.dev](mailto:contact@inforg.dev) or any social media.
 
 ## Donate
 
