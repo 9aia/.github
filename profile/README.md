@@ -10,10 +10,8 @@
   <a href="https://instagram.com/inforgdev">📷 Instagram</a>
   <br/>
   <br/>
-
-    Experimental software to help other software developers, both systems and applications, by developing libraries, utilities and more.
-
   </table>
+  <blockquote align="center">Experimental software to help other software developers, both systems and applications, by developing libraries, utilities and more.</blockquote>
 </div>
 
 ---
