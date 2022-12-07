@@ -11,7 +11,7 @@
   <br/>
   <br/>
   </table>
-  <blockquote align="center">Experimental software to help other software developers, both systems and applications, by developing libraries, utilities and more.</blockquote>
+  <p align="center">Experimental software to help other software developers, both systems and applications, by developing libraries, utilities and more.</p>
 </div>
 
 ---
