@@ -1,11 +1,12 @@
 # NeoGaia Lab
 
-<div align="center">
-  <img src="https://github.com/neogaialab.png" width="128" height="128"/>
-  <br/>
-  <i>Neo<strong>Gaia</strong></i> Lab
-  <br/>
-  <br/>
-  </table>
-  <p align="center">Laboratory for exploring new ideas, experiments and possible solutions in software development.</p>
-</div>
+**Welcome to NeoGaia Lab!**  
+An organization for experimentation in the development of projects with emerging technologies.
+
+## Get Involved
+- **Join our Discord**: [https://discord.gg/RsYaUn3zQa](https://discord.gg/RsYaUn3zQa)
+- **Visit our Website**: [https://neogaialab.github.io/](https://neogaialab.github.io/)
+
+---
+
+Explore our repositories below to see our main and latest projects and contribute!
