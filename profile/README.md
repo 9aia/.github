@@ -1,6 +1,5 @@
-# NeoGaia Lab
+# Welcome to NeoGaia Lab!
 
-**Welcome to NeoGaia Lab!**  
 An organization for experimentation in the development of projects with emerging technologies.
 
 ## Get Involved
