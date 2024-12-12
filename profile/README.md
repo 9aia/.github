@@ -3,8 +3,9 @@
 An organization for experimentation in the development of projects with emerging technologies.
 
 ## Get Involved
-- **Join our Discord**: [https://discord.gg/RsYaUn3zQa](https://discord.gg/RsYaUn3zQa)
-- **Visit our Website**: [https://neogaialab.github.io/](https://neogaialab.github.io/)
+- **Join our Discord**: [discord.gg/RsYaUn3zQa](https://discord.gg/RsYaUn3zQa)
+- **Visit our Website**: [neogaialab.github.io/](https://neogaialab.github.io/)
+- **Follow us on X**: [x.com/NeoGaiaLab/](https://x.com/neogaialab/)
 
 ---
 
