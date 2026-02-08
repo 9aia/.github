@@ -1,4 +1,4 @@
-# Gaia
+# GAIA
 
 An organization for experimentation in the development of projects with emerging technologies.
 
