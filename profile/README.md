@@ -1,11 +1,8 @@
 # Gaia
 
-An independent R&D org building open infrastructure for agent-driven development — and experimental apps that help people learn, understand, and manage on top of it.
+An independent R&D org building open infrastructure for agent-driven development.
 
-We explore what software development becomes when people own their agents. Our work comes in two layers:
-
-- **Agent-facing infrastructure** — memory, coordination, verification, CI, sessions, orchestration, and project management over real repositories
-- **Human-facing apps** — experimental, GenAI-powered tools for learning, understanding, and managing
+We explore what software development becomes when people own their agents — memory, coordination, verification, CI, sessions, orchestration, project management, and calendars over real repositories.
 
 Everything minimal, viable, and open source.
 
