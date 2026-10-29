@@ -1,8 +1,8 @@
 # Gaia
 
-An independent R&D org building open infrastructure for agent-driven development.
+Open infrastructure for agent-driven development.
 
-We explore what software development becomes when people own their agents — memory, coordination, verification, CI, sessions, orchestration, project management, and calendars over real repositories.
+We're building the missing layers between coding agents and the repositories they work on — so people and agents can own the AI that works for them. Memory, coordination, verification, CI, sessions, orchestration, project management, and calendars — over real repos.
 
 Everything minimal, viable, and open source.
 
