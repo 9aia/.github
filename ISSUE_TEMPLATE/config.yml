@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/9aia/.github/blob/main/SECURITY.md
+    about: Report privately — do not open a public issue
+  - name: Documentation
+    url: https://9aia.com/
+    about: Org docs hub and per-repo sites
