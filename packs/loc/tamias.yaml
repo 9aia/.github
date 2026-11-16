@@ -1,0 +1,7 @@
+name: 9aia-loc-config
+version: "0.1.0"
+type: files
+description: >-
+  9aia org configuration for the cypera loc-org reusable
+  workflow — repo list. No docs publish targets (9aia has no
+  central metrics page yet).
