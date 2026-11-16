@@ -2,12 +2,15 @@
 
 ## Reporting a vulnerability
 
-Please report suspected vulnerabilities **privately** — do not open a
-public issue.
+Please report suspected vulnerabilities **privately** — 9aia does not
+run public issue or pull request queues, and nothing about a security
+report should be published publicly.
 
-- Email: luisfuturist+9aia@gmail.com with "SECURITY" in the subject, or
-- Use GitHub's private vulnerability reporting on the affected repo
-  (Security → Report a vulnerability).
+- Email luisfuturist+9aia@gmail.com with "SECURITY" in the subject.
+
+Do **not** open a public issue, do **not** use GitHub's public
+advisories, and do **not** disclose details publicly — contact us
+first and we will coordinate disclosure privately.
 
 Please include: affected repo/component, reproduction steps, and impact
 assessment. We aim to acknowledge within 72 hours.

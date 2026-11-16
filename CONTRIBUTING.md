@@ -7,8 +7,10 @@ engines — contributions should keep them small.
 
 - Read the target repo's `AGENTS.md` — it is the authoritative map of
   layout, commands, rules, and boundaries.
-- Open an issue first for anything non-trivial; small fixes can go
-  straight to a branch.
+- 9aia does not run public issue or pull request queues. For
+  anything non-trivial, coordinate first by emailing
+  luisfuturist+9aia@gmail.com; small fixes can go straight to a
+  pushed branch.
 - Match the repo's existing conventions (language, commit prefixes,
   doc style).
 
@@ -25,8 +27,9 @@ engines — contributions should keep them small.
 ## Workflow
 
 There is no PR-review bottleneck by design — pushed branches are the
-deliverable and review is continuous. For external contributors, open
-a PR against `main`; maintainers merge.
+deliverable and review is continuous. Because the org does not use
+public pull requests, external contributors should coordinate by
+email first and push a branch they own; maintainers pull and merge.
 
 ## Reporting security issues
 
